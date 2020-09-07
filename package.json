@@ -1,0 +1,16 @@
+{
+  "name": "csv-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "testup" : "node testup.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-2-csv": "^3.7.6",
+    "rxjs": "^6.6.2"
+  }
+}
